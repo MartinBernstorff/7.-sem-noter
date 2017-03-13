@@ -21,9 +21,16 @@ Risiko for smitte fra mor til barn er ca. 25%, via amning og perinatalt.
 
 ### Primærfasen
 
-Inkubationstid 1-3 uger, op til 6 uger.
+Inkubationstid 2-4 uger, op til 6 uger.
 
 50% udvikler primærsymptomer der er mononukleose- eller influenzalignende.
+
+- Feber (96%)
+- Generaliseret lymfadenopati (74%)
+- Pharyngit
+- Udslet
+
+==Se slides for %==
 
 Varer fra få dage til flere uger, media 10 dage, selvlimiterende.
 
